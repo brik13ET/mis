@@ -1,0 +1,29 @@
+[__World_Agent Object]
+__Ontology FileName=C:\Git\mis\1.1\OntologyLibrary_1bidir.ocl
+[Project_1]
+__Physical Element Name=Project
+Cost=1 000.00 ?
+Min Experience=2
+X=21
+Y=16
+[Project_2]
+__Physical Element Name=Project
+Cost=5 000.00 ?
+Min Experience=5
+X=14
+Y=16
+[Programmer_1]
+__Physical Element Name=Programmer
+Experience=5
+X=23
+Y=8
+[Programmer_2]
+__Physical Element Name=Programmer
+Experience=15
+X=19
+Y=4
+[Programmer_3]
+__Physical Element Name=Programmer
+Experience=2
+X=10
+Y=7
